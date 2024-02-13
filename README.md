@@ -8,4 +8,7 @@ Although we hosted the app on Heroku for demo purposes at the time, this was ret
 ![alt text](https://github.com/kathryn-gb/capstone-NHSA-app/blob/main/assets/architecure_mock.png?raw=true)
 
 ## screenshots
+![alt text](https://github.com/kathryn-gb/capstone-NHSA-app/blob/main/assets/grab1.png?raw=true)
+![alt text](https://github.com/kathryn-gb/capstone-NHSA-app/blob/main/assets/grab2.png?raw=true)
+![alt text](https://github.com/kathryn-gb/capstone-NHSA-app/blob/main/assets/grab3.png?raw=true)
 
