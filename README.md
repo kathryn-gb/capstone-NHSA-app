@@ -5,6 +5,7 @@ The [National Head Start Association](https://nhsa.org/) is a leading provider o
 Although we hosted the app on Heroku for demo purposes at the time, this was retired at the conclusion of our project, and the code was turned over to the next team for continued refinement. This repository contains my local staging version of the app. It can be run locally by installing the requirements and running index.py.
 
 ## architecture
+![alt text](https://github.com/kathryn-gb/capstone-NHSA-app/blob/main/assets/architecure_mock.png?raw=true)
 
 ## screenshots
 
